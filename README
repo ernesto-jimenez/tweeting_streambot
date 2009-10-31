@@ -5,6 +5,7 @@ tweets it finds.
 
 Ideal for conferences and events bots.
 
+
 = USAGE
 
 It's really simple, edit tweeting_streambot.rb and add your credentials and the
